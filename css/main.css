@@ -14,11 +14,12 @@
 }
 
 @keyframes eyeMove {
+
   0% {
-    transform: translateX(7.5px)
+    transform: translateX(7.5px);
   }
 
   100% {
-    transform: translateX(-7.5px)
+    transform: translateX(-7.5px);
   }
 }
